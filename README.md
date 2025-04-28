@@ -10,6 +10,13 @@
 
 ---
 
+## 📷 Screenshots
+
+### 🩺 Medical Chatbot UI
+
+![Medical Chatbot Screenshot](./Screenshot%20from%202025-04-29%2000-22-40.png)
+
+
 ## 📥 Download Project
 
 [![Download](https://img.shields.io/badge/Download-Project-blue?style=for-the-badge&logo=github)](https://github.com/prabhatadvait/Medical_Chatbot/archive/refs/heads/main.zip)
